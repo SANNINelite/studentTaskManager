@@ -136,7 +136,7 @@ Followed clean project structure and best practices
 
 Swaroop Mane
 📧 Email: your email
-🔗 GitHub: https://github.com/SANNite
+🔗 GitHub: https://github.com/SANNINelite
 
 💼 Role: Full-Stack Developer (MERN)
 
@@ -151,3 +151,4 @@ Drag-and-drop task ordering
 Dark mode
 
 Role-based access
+
