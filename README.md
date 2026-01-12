@@ -9,6 +9,12 @@ Frontend: https://student-task-manager-frontend.onrender.com
 
 Backend API: https://student-task-manager-backend-rb9u.onrender.com
 
+Github
+
+Frontend: https://github.com/SANNINelite/student-task-manager-frontend
+
+Backend: https://github.com/SANNINelite/student-task-manager-backend
+
 🛠️ Tech Stack
 Frontend
 
@@ -151,4 +157,5 @@ Drag-and-drop task ordering
 Dark mode
 
 Role-based access
+
 
